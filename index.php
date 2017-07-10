@@ -9,10 +9,10 @@ $LP_TITLE = getenv('LP_TITLE');
     <title>|<?php echo $LP_TITLE;?></title>
 </head>
 <style>
-    body{
-        font-family:arial, tahoma;
-        font-size:11pt;
-    }
+body{
+    font-family:arial, tahoma;
+    font-size:11pt;
+}
 </style>
 
 <body>
