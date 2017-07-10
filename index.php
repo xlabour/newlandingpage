@@ -22,7 +22,8 @@ body{
 <body>
 <center>
 <img width="" src="./img/header.png" />
-Welcome to <?php echo $LP_TITLE;?>
+<h6 style="text-align:center; color:#777; font-weight:bold;">XL Axiata</h6><br />
+<div>Welcome to <?php echo $LP_TITLE;?></div>
 </center>
 </body>
 </html>
